@@ -17,13 +17,13 @@
 
 ### 1. ML System Design Document
 
-![static/image-1.png](static/image-1.png){ width=500 }
+<img src="static/image-1.png"  alt="ML System Design Document" width="500">
 
 
 ### 2. Implement ML System 
 
-![static/image-2.png](static/image-2.png){ width=500 }
+<img src="static/image-2.png"  alt="Implement ML System " width="500">
 
 ### 3. Reflection on ML System Design
 
-![Reflection on ML System Design](static/image-3.png){ width=500 }
+<img src="static/image-3.png"  alt="Reflection on ML System Design" width="500">
